@@ -4,5 +4,6 @@ public class Main2 {
         int n = 9;
         n++;
         System.out.println(n);
+        System.out.println(n+n);
     }
 }
